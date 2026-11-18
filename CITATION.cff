@@ -6,8 +6,8 @@ authors:
     given-names: Obed
 version: "Draft edition"
 license: CC-BY-NC-ND-4.0
-repository-code: "https://github.com/marte-X/trustworthy-by-design"
-url: "https://github.com/marte-X/trustworthy-by-design"
+repository-code: "https://github.com/marte-X/Trustworthy-By-Design"
+url: "https://github.com/marte-X/Trustworthy-By-Design"
 keywords:
   - systems engineering
   - mechatronics
@@ -26,4 +26,4 @@ preferred-citation:
       given-names: Obed
   year: 2025
   edition: "Draft"
-  url: "https://github.com/marte-X/trustworthy-by-design"
+  url: "https://github.com/marte-X/Trustworthy-By-Design"
