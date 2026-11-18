@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this book, please cite it as below."
+title: "Trustworthy by Design: Engineering Mechatronic Systems That Know When They Are Wrong"
+authors:
+  - family-names: Doku
+    given-names: Obed
+version: "Draft edition"
+license: CC-BY-NC-ND-4.0
+repository-code: "https://github.com/YOUR-USERNAME/trustworthy-by-design"
+url: "https://github.com/YOUR-USERNAME/trustworthy-by-design"
+keywords:
+  - systems engineering
+  - mechatronics
+  - reliability engineering
+  - Kalman filter
+  - sensor fusion
+  - fault detection
+  - verification and validation
+  - MATLAB
+  - textbook
+preferred-citation:
+  type: book
+  title: "Trustworthy by Design: Engineering Mechatronic Systems That Know When They Are Wrong"
+  authors:
+    - family-names: Doku
+      given-names: Obed
+  year: 2025
+  edition: "Draft"
+  url: "https://github.com/YOUR-USERNAME/trustworthy-by-design"
