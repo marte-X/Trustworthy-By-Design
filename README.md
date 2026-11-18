@@ -72,7 +72,7 @@ This is a **draft**. Corrections, unclear passages and suggestions are very welc
                That Know When They Are Wrong},
   edition   = {Draft},
   year      = {2025},
-  url       = {https://github.com/<your-username>/trustworthy-by-design}
+  url       = {https://github.com/marte-X/Trustworthy-By-Design}
 }
 ```
 
